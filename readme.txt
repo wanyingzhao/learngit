@@ -3,3 +3,4 @@ Git is free software.
 Wanying is trying to learn it.
 And she wants to nail it.
 tty 2
+Git has a mutable index called stage
